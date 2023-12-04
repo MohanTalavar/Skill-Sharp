@@ -1,0 +1,48 @@
+*{
+    text-align: center;
+}
+body{
+    background-color:#53b1d4
+    ;
+}
+
+h1{
+    color: blue;
+    text-decoration: green wavy underline;
+    text-align: center;
+    font-size: 50px;
+    font-family: cursive;
+}
+
+#upperCase{
+    text-transform: uppercase;
+    font-size: large;
+}
+
+#lowerCase{
+    text-transform: lowercase;
+    font-size: larger;
+    text-decoration: overline;
+}
+
+button{
+    color: aqua;
+    background-color: darkviolet;
+    font-size: 20px;
+}
+
+#paraOne{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 50px;
+}
+
+#paraTwo{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 20px;
+}
+
+a{
+    font-size: 20px;
+    font-family: cursive;
+    
+}
