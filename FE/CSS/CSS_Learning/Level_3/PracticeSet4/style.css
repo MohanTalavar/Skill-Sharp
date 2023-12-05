@@ -1,0 +1,25 @@
+* {
+  color: white;
+}
+
+body {
+  background-image: url(car_interior.jpg);
+  background-size: cover;
+}
+
+div {
+  position: fixed;
+  top: 0;
+  right: 0;
+  font-family: cursive;
+  font-size: larger;
+  color: cyan;
+  width: 200px;
+  height: 200px;
+  background-image: url("car_photo.jpg");
+  background-size: cover;
+}
+
+p {
+  width: 85%;
+}
