@@ -1,0 +1,44 @@
+body {
+  text-align: center;
+}
+
+#container {
+  height: 300px;
+  width: 600px;
+  border: 2px solid black;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  /* flex-wrap: wrap; */
+  align-items: flex-start;
+  /* align-content: center; */
+}
+
+div {
+  border: 2px solid black;
+  height: 100px;
+  width: 200px;
+  display: inline-block;
+}
+
+#box1 {
+  background-color: red;
+}
+
+#box2 {
+  background-color: green;
+  height: 200px;
+}
+
+#box3 {
+  background-color: blue;
+  height: 75px;
+}
+
+#box4 {
+  background-color: teal;
+}
+
+#box5 {
+  background-color: yellow;
+}
